@@ -1,9 +1,0 @@
-{
-  "name": "javascript-workshop",
-  "version": "0.0.0",
-  "description": "",
-  "dependencies": {
-    "express": "3.x"
-  },
-  "devDependencies": {}
-}
